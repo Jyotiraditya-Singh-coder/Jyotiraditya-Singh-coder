@@ -151,6 +151,7 @@ I'm interested in building intelligent automation workflows using:
 
 ---
 
+
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -161,17 +162,18 @@ I'm interested in building intelligent automation workflows using:
 &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/legenda_bhai/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jyotiraditya-singh-7977b4279/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
 </a>
 
 </p>
 
 **GitHub** • **Instagram** • **LinkedIn**
+
 ---
 
 ## 🎯 My Goals
