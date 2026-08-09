@@ -1,105 +1,191 @@
-<div align="center">
+Hi 👋, I'm Jyotiraditya Singh
 
-# Hi 👋, I'm Jyotiraditya Singh
+💻 Software Developer | CSE Student | Tech Enthusiast
 
-### 💻 Software Developer | CSE Student | Tech Enthusiast
+👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=Jyotiraditya-Singh-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+🎓 Computer Science Engineering student
 
-</div>
+💻 Passionate about software development
 
----
+🐍 Working with Python
 
-## 👨‍💻 About Me
+🌐 Interested in Web Development
 
-- 🎓 Computer Science Engineering student
-- 💻 Passionate about software development
-- 🐍 Working with Python
-- 🌐 Interested in Web Development
-- 🚀 Building projects and learning new technologies
-- 📚 Always exploring something new
+🤖 Interested in AI & Automation
 
----
+⚙️ Exploring workflow automation with n8n, Zapier and Activepieces
 
-## 🛠️ Languages & Tools
+🗄️ Working with databases like MongoDB and MySQL
+
+🐳 Learning and using Docker
+
+🚀 Building projects and learning new technologies
+
+📚 Always exploring something new
+
+🛠️ Languages & Tools
+
+💻 Programming & Web Development
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,git,github,vscode,mysql" />
-
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
----
-
-## 🚀 My Projects
-
-### 📧 PriorInboX
-
-An intelligent email-related project designed to help manage and process inbox information efficiently.
-
-🔗 [View Project](https://github.com/Jyotiraditya-Singh-coder/PriorInboX)
-
-### 🌐 Portfolio
-
-My personal developer portfolio showcasing my projects, skills and experience.
-
-🔗 [View Project](https://github.com/Jyotiraditya-Singh-coder/Portfolio)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya-Singh-coder&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiraditya-Singh-coder&theme=tokyonight" />
-
-</div>
-
----
-
-## 🔥 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotiraditya-Singh-coder&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
+🗄️ Database & DevOps
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,vscode" />
+</p>
 
-<a href="https://github.com/Jyotiraditya-Singh-coder">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+⚙️ Automation & Workflow
+
+<p align="left">
+<a href="https://n8n.io" target="_blank">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n"/>
 </a>
-
+&nbsp;&nbsp;
+<a href="https://zapier.com" target="_blank">
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.activepieces.com" target="_blank">
+<img src="https://cdn.simpleicons.org/activepieces/7B61FF" width="50" height="50" alt="Activepieces"/>
+</a>
 </p>
 
----
+n8n • Zapier • Activepieces
+
+🚀 My Projects
+
+📧 PriorInboX
+
+An intelligent email management project built to help process, organize and prioritize inbox information efficiently.
+
+Technologies:Python • Automation • Email Processing
+
+🔗 View Project
+
+🌐 Portfolio
+
+My personal developer portfolio showcasing my projects, skills, experience and work.
+
+Technologies:HTML • CSS • JavaScript
+
+🔗 View Portfolio
+
+📊 GitHub Stats
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya-Singh-coder&show_icons=true&theme=tokyonight&hide_border=true" />
 
-**Keep coding. Keep building. Keep learning. 🚀**
+</div>
 
-</div>## Hi there 👋
+🔥 GitHub Streak
 
-<!--
-**Jyotiraditya-Singh-coder/Jyotiraditya-Singh-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiraditya-Singh-coder&theme=tokyonight&hide_border=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotiraditya-Singh-coder&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🧰 Tech Stack
+
+Category
+
+Technologies
+
+💻 Programming
+
+Python, JavaScript
+
+🌐 Web
+
+HTML, CSS, JavaScript
+
+🗄️ Database
+
+MongoDB, MySQL
+
+🐳 DevOps
+
+Docker, Git, GitHub
+
+⚙️ Automation
+
+n8n, Zapier, Activepieces
+
+🛠️ Tools
+
+VS Code
+
+🤖 Automation & AI
+
+I'm interested in building intelligent automation workflows using:
+
+⚡ n8n
+
+⚡ Zapier
+
+🧩 Activepieces
+
+🤖 AI-powered workflows
+
+📧 Email automation
+
+🔗 API integrations
+
+🔄 Workflow automation
+
+🐳 Containerized applications with Docker
+
+📌 What I'm Currently Working On
+
+🚀 Building new software projects
+
+🐍 Improving my Python skills
+
+🤖 Exploring AI & automation
+
+⚙️ Learning advanced n8n workflows
+
+⚡ Building automation workflows with Zapier
+
+🧩 Exploring Activepieces
+
+🐳 Learning Docker and containerization
+
+🗄️ Working with MongoDB
+
+🌐 Improving my web development skills
+
+🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Jyotiraditya-Singh-coder">
+<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
+</p>
+
+🎯 My Goals
+
+Learn → Build → Automate → Improve → Repeat 🔥
+
+I'm continuously working on improving my development skills and building projects that solve real-world problems.
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+Keep Coding. Keep Building. Keep Learning. 🚀
+
+</div>
