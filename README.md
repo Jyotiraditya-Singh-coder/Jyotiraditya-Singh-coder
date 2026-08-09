@@ -40,21 +40,22 @@
 ### ⚙️ Automation & Workflow
 
 <p align="left">
-  <a href="https://n8n.io" target="_blank">
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" />
-  </a>
-  &nbsp;
-  <a href="https://zapier.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier" />
-  </a>
-  &nbsp;
-  <a href="https://www.activepieces.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/activepieces/7B61FF" width="50" height="50" alt="Activepieces" />
-  </a>
+
+<a href="https://n8n.io" target="_blank">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://zapier.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.activepieces.com" target="_blank">
+  <img src="https://github.com/activepieces/activepieces/raw/main/packages/server/api/src/assets/logo.png" width="50" height="50" alt="Activepieces"/>
+</a>
+
 </p>
-
-**n8n** • **Zapier** • **Activepieces**
-
 ---
 
 ## 🚀 My Projects
