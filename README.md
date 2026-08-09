@@ -1,6 +1,10 @@
+<div align="center">
+
 Hi 👋, I'm Jyotiraditya Singh
 
 💻 Software Developer | CSE Student | Tech Enthusiast
+
+</div>
 
 👨‍💻 About Me
 
@@ -14,9 +18,9 @@ Hi 👋, I'm Jyotiraditya Singh
 
 🤖 Interested in AI & Automation
 
-⚙️ Exploring workflow automation with n8n, Zapier and Activepieces
+⚙️ Exploring workflow automation with n8n, Zapier & Activepieces
 
-🗄️ Working with databases like MongoDB and MySQL
+🗄️ Working with databases like MongoDB & MySQL
 
 🐳 Learning and using Docker
 
@@ -29,29 +33,29 @@ Hi 👋, I'm Jyotiraditya Singh
 💻 Programming & Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Programming and Web Development Skills" />
 </p>
 
 🗄️ Database & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,vscode" alt="Database and DevOps Skills" />
 </p>
 
 ⚙️ Automation & Workflow
 
 <p align="left">
-<a href="https://n8n.io" target="_blank">
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://zapier.com" target="_blank">
-<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.activepieces.com" target="_blank">
-<img src="https://cdn.simpleicons.org/activepieces/7B61FF" width="50" height="50" alt="Activepieces"/>
-</a>
+  <a href="https://n8n.io" target="_blank">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" />
+  </a>
+  &nbsp;
+  <a href="https://zapier.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50" alt="Zapier" />
+  </a>
+  &nbsp;
+  <a href="https://www.activepieces.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/activepieces/7B61FF" width="50" height="50" alt="Activepieces" />
+  </a>
 </p>
 
 n8n • Zapier • Activepieces
@@ -78,7 +82,7 @@ Technologies:HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya-Singh-coder&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya-Singh-coder&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -171,9 +175,9 @@ I'm interested in building intelligent automation workflows using:
 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Jyotiraditya-Singh-coder">
-<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-</a>
+  <a href="https://github.com/Jyotiraditya-Singh-coder">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
 </p>
 
 🎯 My Goals
