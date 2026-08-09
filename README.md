@@ -52,9 +52,12 @@
 &nbsp;&nbsp;
 
 <a href="https://www.activepieces.com" target="_blank">
-  <img src="https://github.com/activepieces/activepieces/raw/main/packages/server/api/src/assets/logo.png" width="50" height="50" alt="Activepieces"/>
+  <img src="https://cdn.activepieces.com/pieces/activepieces.png" width="50" height="50" alt="Activepieces"/>
 </a>
 
+</p>
+
+**n8n** • **Zapier** • **Activepieces**
 </p>
 ---
 
